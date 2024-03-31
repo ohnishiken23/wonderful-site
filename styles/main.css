@@ -1,0 +1,61 @@
+body {
+  background-image: url(https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/head_bg.jpg);
+}
+
+p {
+  text-align: center;
+}
+
+div {
+  font-size: 14px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.box {
+  background-color: white;
+  border-radius: 10px;
+  border: solid;
+  width: 600px;
+  height: auto;
+  padding: 20px;
+  margin: 100px;
+}
+
+.title {
+  font-size: 20px;
+  text-align: center;
+}
+
+.jatitle {
+  font-size: 10px;
+}
+
+.apprybox {
+  background-color: rgb(103, 162, 231);
+  border-radius: 5px;
+  font-size: 12px;
+  color: white;
+  width: 300px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.notice {
+  font-size: 10px;
+}
+
+.marker {
+  background: linear-gradient(transparent 50%, yellow);
+  width: 250px;
+}
+
+.threeimages {
+  background-color: black;
+}
+
+.bottomtext {
+  background-color: black;
+  color: white;
+}/*# sourceMappingURL=main.css.map */
